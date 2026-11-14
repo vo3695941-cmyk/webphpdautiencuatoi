@@ -9,7 +9,7 @@ khi tải 3d cần cài 2 thứ này
 vào trước  
 `  `  ` python
 cd /public/libraries
-`  `  ` 
+`  `  `  cái này là lệnh vào cd nhé
 
 rồi 
 Tải Three.js và OrbitControls 
