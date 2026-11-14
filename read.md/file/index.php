@@ -4,7 +4,6 @@
 // PURE PHP SVG GENERATOR
 // SINGLE FILE EDITION
 // ============================================
-
 error_reporting(0);
 mb_internal_encoding("UTF-8");
 
